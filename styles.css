@@ -61,6 +61,7 @@ nav ul li a:hover::after{
 .header-text h1{
     font-size: 50px;
     margin-top: 20px;
+    color:  linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 29%, rgba(252,176,69,1) 100%);
 }
 .header-img{
     
@@ -80,6 +81,7 @@ nav ul li a:hover::after{
 }
 .about-image img{
     margin-left: 70px;
+    margin-top: 40px;
     
 }
 

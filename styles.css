@@ -25,9 +25,7 @@ nav{
     flex-wrap: wrap;
 }
 
-.logo{
-    width: 140px;
-}
+
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -325,7 +323,9 @@ nav .fas{
     display: none;
 }
 
-@media only screen and (max-width: 600px){
+
+
+@media only screen and (max-width: 800px){
     .home-image{
         display: none;
     }
@@ -333,7 +333,7 @@ nav .fas{
         background-image: url(images/home.png);
         background-repeat: no-repeat;
         background-size: 250px 350px;
-        background-position: right top 50px;
+        background-position: right top 100px;
 
     }
     .header-text{

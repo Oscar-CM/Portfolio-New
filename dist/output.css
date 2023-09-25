@@ -794,6 +794,10 @@ video {
   width: 180px;
 }
 
+.w-auto {
+  width: auto;
+}
+
 .flex-shrink {
   flex-shrink: 1;
 }
@@ -1899,11 +1903,6 @@ video {
 
 .align-super {
   vertical-align: super;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .font-bold {
